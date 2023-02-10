@@ -12,6 +12,7 @@
   - sudo apt upgrade
   - sudo apt install python3
   - sudo apt install git
+  - git clone https://github.com/yousef-ahmadi/hammer
   - cd hammer
   - python3 hammer.py
 
@@ -20,6 +21,7 @@
   - apt upgrade
   - apt install python3
   - apt install git
+  - git clone https://github.com/yousef-ahmadi/hammer
   - cd hammer
   - python3 hammer.py
 
