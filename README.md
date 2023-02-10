@@ -8,13 +8,21 @@
 
 
 - how to install Hammer in linux ?
-  - go to terminal
   - sudo apt update
   - sudo apt upgrade
   - sudo apt install python3
   - sudo apt install git
   - cd hammer
   - python3 hammer.py
+
+- how to install Hammer in Termux ?
+  - apt update
+  - apt upgrade
+  - apt install python3
+  - apt install git
+  - cd hammer
+  - python3 hammer.py
+
 
 <pre>
 📌 My Links:
